@@ -32,4 +32,5 @@ public class prova_db {
         } catch (SQLException | ClassNotFoundException e) {
         }
     }
+    //ciao
 }
